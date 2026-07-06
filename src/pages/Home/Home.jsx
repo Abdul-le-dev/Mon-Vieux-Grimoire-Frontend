@@ -35,7 +35,6 @@ function Home() {
           {loading ? <h1>Chargement</h1> : displayBooks()}
         </section>
       </main>
-
     </div>
 
   );
